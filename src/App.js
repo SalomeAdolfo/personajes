@@ -1,8 +1,13 @@
 import React from 'react'
+import NavBarComponent from './components/NavBarComponent'
 
 function App() {
   return (
-    <div>App</div>
+    <main>
+      <header className='shadow'>
+        <NavBarComponent />
+      </header>
+    </main>
   )
 }
 
