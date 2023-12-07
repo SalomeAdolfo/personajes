@@ -1,1 +1,1 @@
-export const route = "http://127.0.0.1:3005/api/"
+export const route = "http://127.0.0.1:3005/"
